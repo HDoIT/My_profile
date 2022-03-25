@@ -32,7 +32,7 @@ export default function About(props) {
                 <div className="text-about">
                     <div className='textLeft-about'>
                         <h4>Personal Details</h4>
-                        <p>Hello, My name is Do. I'm 22 year old.I'm living in Ha Noi, i was born in Thanh Hoa.My major is computer science at HaNoi University of industry. My dream will to become a fontend developer. I will try to make my dream come true</p>
+                        <p>Hello, My name is Do. I'm 22 year old.I'm living in Ha Noi, i was born at Thanh Hoa.My major is computer science at HaNoi University of industry. My dream will to become a fontend developer. I will try to make my dream come true</p>
                     </div>
                     <div className='textRight-about'>
                         <ul>
